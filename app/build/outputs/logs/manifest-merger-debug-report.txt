@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\31138f1a0d477e8eeb17333e97d9b1b6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d95da95ecc076a0b5ca786e72f8257f2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0c1db386973b83ac214edef2ad0297c2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\bb91e783370ccbf2629c2b8ab540b395\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\04d82518d8c497f05daaf8e7cf12d223\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9603d56c2eebed39e679495dd1773499\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\89d41fe9935aa53913779a4ab25774b3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\5635479ac3e96602f3db0f25986851b4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d1dc4dbfe974cdd90922bd09d928a792\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\097e7241c80214726d976e50ef41f230\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f0bff92fb0ad7444302475bde4a3163a\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\31138f1a0d477e8eeb17333e97d9b1b6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\31138f1a0d477e8eeb17333e97d9b1b6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d95da95ecc076a0b5ca786e72f8257f2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d95da95ecc076a0b5ca786e72f8257f2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0c1db386973b83ac214edef2ad0297c2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0c1db386973b83ac214edef2ad0297c2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\bb91e783370ccbf2629c2b8ab540b395\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\bb91e783370ccbf2629c2b8ab540b395\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\04d82518d8c497f05daaf8e7cf12d223\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\04d82518d8c497f05daaf8e7cf12d223\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9603d56c2eebed39e679495dd1773499\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9603d56c2eebed39e679495dd1773499\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\89d41fe9935aa53913779a4ab25774b3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\89d41fe9935aa53913779a4ab25774b3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\5635479ac3e96602f3db0f25986851b4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\5635479ac3e96602f3db0f25986851b4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d1dc4dbfe974cdd90922bd09d928a792\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d1dc4dbfe974cdd90922bd09d928a792\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\097e7241c80214726d976e50ef41f230\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\097e7241c80214726d976e50ef41f230\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f0bff92fb0ad7444302475bde4a3163a\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f0bff92fb0ad7444302475bde4a3163a\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.udacity.sandwichclub.MainActivity
+ADDED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.udacity.sandwichclub.DetailActivity
+ADDED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:21:9-52
+	android:name
+		ADDED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml:21:19-49
+uses-sdk
+INJECTED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\31138f1a0d477e8eeb17333e97d9b1b6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\31138f1a0d477e8eeb17333e97d9b1b6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d95da95ecc076a0b5ca786e72f8257f2\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d95da95ecc076a0b5ca786e72f8257f2\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0c1db386973b83ac214edef2ad0297c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0c1db386973b83ac214edef2ad0297c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\bb91e783370ccbf2629c2b8ab540b395\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\bb91e783370ccbf2629c2b8ab540b395\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\04d82518d8c497f05daaf8e7cf12d223\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\04d82518d8c497f05daaf8e7cf12d223\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9603d56c2eebed39e679495dd1773499\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9603d56c2eebed39e679495dd1773499\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\89d41fe9935aa53913779a4ab25774b3\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\89d41fe9935aa53913779a4ab25774b3\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\5635479ac3e96602f3db0f25986851b4\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\5635479ac3e96602f3db0f25986851b4\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d1dc4dbfe974cdd90922bd09d928a792\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d1dc4dbfe974cdd90922bd09d928a792\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\097e7241c80214726d976e50ef41f230\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\097e7241c80214726d976e50ef41f230\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f0bff92fb0ad7444302475bde4a3163a\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f0bff92fb0ad7444302475bde4a3163a\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d95da95ecc076a0b5ca786e72f8257f2\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\google android nanodegree\project 1\sandwich-club-starter-code-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d95da95ecc076a0b5ca786e72f8257f2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0c1db386973b83ac214edef2ad0297c2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0c1db386973b83ac214edef2ad0297c2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\bb91e783370ccbf2629c2b8ab540b395\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\bb91e783370ccbf2629c2b8ab540b395\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\04d82518d8c497f05daaf8e7cf12d223\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\04d82518d8c497f05daaf8e7cf12d223\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9603d56c2eebed39e679495dd1773499\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9603d56c2eebed39e679495dd1773499\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\89d41fe9935aa53913779a4ab25774b3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\89d41fe9935aa53913779a4ab25774b3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\5635479ac3e96602f3db0f25986851b4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\5635479ac3e96602f3db0f25986851b4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d1dc4dbfe974cdd90922bd09d928a792\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d1dc4dbfe974cdd90922bd09d928a792\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\097e7241c80214726d976e50ef41f230\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\097e7241c80214726d976e50ef41f230\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d95da95ecc076a0b5ca786e72f8257f2\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d95da95ecc076a0b5ca786e72f8257f2\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f0bff92fb0ad7444302475bde4a3163a\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f0bff92fb0ad7444302475bde4a3163a\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\NB Lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f0bff92fb0ad7444302475bde4a3163a\AndroidManifest.xml:26:13-58
